@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+  "name": "web-ext-error",
+  "version": "1.0.0",
+  "icons": { "48": "images/icon.svg",
+             "96": "images/icon.svg",
+             "128": "images/icon.svg" }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "web-ext-error",
+  "version": "1.0.0",
+  "description": "Test repo for reproducing a web-ext error",
+  "scripts": {
+    "test": "web-ext lint"
+  },
+  "dependencies": {
+    "web-ext": "^2.2.2"
+  }
+}
